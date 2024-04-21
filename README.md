@@ -9,9 +9,15 @@ Hello, welcome to my portfolio! I'm Rylan Ornelas, a data analyst coming from a 
 * Python
 * Microsoft Excel
 * Tableau
-* Google Bigquery
+* Google BigQuery
   
 ## Portfolio Projects
 This section contains a list of completed projects
 
-### [Vehicle Theft Analysis](https://github.com/rylan386/Data-Analytics-Portfolio/tree/main/Stolen%20Vehicles%20Analysis)
+### [* Vehicle Theft Analysis](https://github.com/rylan386/Data-Analytics-Portfolio/tree/main/Stolen%20Vehicles%20Analysis)
+
+#### Description:
+The the dataset used contained informated and characterists about different vehicle thefts from New Zealand. The goal of this analysis was to gain a deeper understanding about what characteristics play apart into vehicle thefts and if there are any underlying trends or patterns that can be found through thbis dataset.
+
+#### Skills:
+Python, Seaborn, Matplotlib, Pandas
