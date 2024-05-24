@@ -21,3 +21,12 @@ The dataset used contains information and characteristics about different vehicl
 
 #### Skills Used:
 Python - Seaborn, Matplotlib, Pandas
+
+II. KPI Dashboard
+Tableau Link(https://public.tableau.com/app/profile/rylan.ornelas/viz/Salesdata_17163426505230/Dashboard1)
+
+#### Description:
+This dataset is a practice dataset from a fictitious company available on Tableau's website. The objective of this analysis was to create a comprehensive KPI dashboard. By thoroughly analyzing the data, the aim was to gain a deeper understanding of the company's performance in terms of sales. The dashboard includes metrics such as total sales, sales growth over time, regional sales performance, and product category analysis.
+
+#### Skills Used:
+Tableau, Excel
