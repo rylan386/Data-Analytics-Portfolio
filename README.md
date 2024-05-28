@@ -14,7 +14,8 @@ Hello, welcome to my portfolio! I'm Rylan Ornelas, a data analyst coming from a 
 ## Portfolio Projects
 This section contains a list of completed projects
 
-### I. [Vehicle Theft Analysis](https://github.com/rylan386/Data-Analytics-Portfolio/tree/main/Stolen%20Vehicles%20Analysis)
+### I. [Vehicle Theft Analysis]
+Link(https://github.com/rylan386/Data-Analytics-Portfolio/tree/main/Stolen%20Vehicles%20Analysis)
 
 #### Description:
 The dataset used contains information and characteristics about different vehicle thefts from New Zealand. The goal of this analysis was to gain a deeper understanding about what characteristics play apart into vehicle thefts and if there are any underlying trends or patterns that can be found through this dataset.
@@ -22,7 +23,8 @@ The dataset used contains information and characteristics about different vehicl
 #### Skills Used:
 Python - Seaborn, Matplotlib, Pandas
 
-II. KPI Dashboard
+### II. KPI Dashboard
+Excel Link(https://github.com/rylan386/Data-Analytics-Portfolio/blob/main/superstore_data.xls)
 Tableau Link(https://public.tableau.com/app/profile/rylan.ornelas/viz/Salesdata_17163426505230/Dashboard1)
 
 #### Description:
